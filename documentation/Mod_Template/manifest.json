@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Let bygones be Flygons ",
+    "description": "Idk kinda bored",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Created by SadHomer369"
     },
     "icons":
     {
@@ -17,10 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/track_1.mp3"
             ],
             "browser_sounds":
             {
@@ -133,15 +130,15 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 84,
+                        "s": 62,
+                        "l": 66
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 352,
+                        "s": 65,
+                        "l": 63
                     }
                 },
                 "light":
@@ -164,14 +161,15 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "wallpaper/flygon.webm",
+                    "first_frame": "wallpaper/first.jpeg",
                     "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+                    "text_shadow": "#0B000E"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "image": "wallpaper/flygon.webm",
+                    "first_frame": "wallpaper/first.jpeg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
